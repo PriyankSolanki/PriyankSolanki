@@ -1,18 +1,12 @@
-### 👋 Salut
+# <p align="center">Salut les amis !</p>
+  
+Je suis Priyank SOLANKI, un jeune développeur en herbe.
+Je suis actuellement en 3ème année de BUT Informatique, et je voudrais intégrer une école d'ingénieur dans le domaine de l'informatique l'année prochaine.
 
+> Linkedin : 
+[Priyank SOLANKI](https://www.linkedin.com/in/priyank-solanki-114b182a0/) 
 
+> Portfolio : [priyanksolanki](https://priyanksolanki.github.io/) 
 
-<!--
-**PriyankSolanki/PriyankSolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Mail : priyank.slki@gmail.com
+    
