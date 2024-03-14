@@ -9,4 +9,3 @@ Je suis actuellement en 3ème année de BUT Informatique, et je voudrais intégr
 > Portfolio : [priyanksolanki](https://priyanksolanki.github.io/) 
 
 > Mail : priyank.slki@gmail.com
-    
