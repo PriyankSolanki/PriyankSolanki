@@ -1,6 +1,6 @@
-# <p align="center">Salut les amis !</p>
+# <p align="center">Salut !</p>
   
-Je suis Priyank SOLANKI, un jeune développeur en herbe.
+Je suis Priyank SOLANKI, un développeur en herbe.
 Je suis actuellement en 3ème année de BUT Informatique, et je voudrais intégrer une école d'ingénieur dans le domaine de l'informatique l'année prochaine.
 
 > Linkedin : 
