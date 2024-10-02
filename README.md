@@ -1,7 +1,7 @@
 # <p align="center">Salut !</p>
   
 Je suis Priyank SOLANKI, un développeur en herbe.
-Je suis actuellement en 3ème année de BUT Informatique, et je voudrais intégrer une école d'ingénieur dans le domaine de l'informatique l'année prochaine.
+Je suis actuellement en première année de cycle ingénieur à l'EFREI en parcours Logiciels et systèmes d'information.
 
 > Linkedin : 
 [Priyank SOLANKI](https://www.linkedin.com/in/priyank-solanki-114b182a0/) 
